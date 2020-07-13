@@ -1,0 +1,19 @@
+
+
+Working Group details section
+BT Bussiness Impact section
+Topic sections
+Time Line section
+Budget estimation sections
+
+
+User Manuals
+Trianing Documetation
+User Training
+
+
+Unit Testing
+Manual Testing
+Application integration Testing
+Packaging & Deployment
+
